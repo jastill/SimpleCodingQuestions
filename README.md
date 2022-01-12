@@ -1,0 +1,2 @@
+# SimpleCodingQuestions
+Coding practice problems
